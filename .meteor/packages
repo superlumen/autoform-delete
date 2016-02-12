@@ -25,3 +25,5 @@ aldeed:simple-schema
 aldeed:autoform
 
 superlumen:base
+
+twbs:bootstrap
